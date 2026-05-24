@@ -1,5 +1,11 @@
 # EmotiWave — Quality Assurance & Compliance
 
+## Integrantes
+
+- Lucas José Lima - RM561160
+- Rangel Bernardi Jordao - RM560547
+- Jhonatta Lima Sandes De Oliveira - RM560277
+
 ## Plano de Testes Manuais — Nível de Sistema
 
 Repositório de entrega da atividade de **Compliance & Quality Assurance**.
@@ -10,7 +16,9 @@ Repositório de entrega da atividade de **Compliance & Quality Assurance**.
 
 Os testes manuais foram cadastrados no Azure Boards e cobrem as principais funcionalidades do sistema EmotiWave.
 
-🔗 **Link Azure Boards:** `<COLE O LINK AQUI>`
+🔗 **Link Azure Boards:** `https://dev.azure.com/MR560547/EmotiWave/_workitems/recentlyupdated/`
+
+> Os Test Cases estão cadastrados dentro do **Boards**. Clique em qualquer TC → aba **Summary** → campo **Description** para visualizar as tabelas de dados de entrada, saída esperada e passos do teste.
 
 ### Funcionalidades cobertas
 
@@ -23,12 +31,6 @@ Os testes manuais foram cadastrados no Azure Boards e cobrem as principais funci
 | Usuário-Música | TC-009, TC-014, TC-015 |
 | Admin | TC-010, TC-011, TC-012, TC-013 |
 | **Total** | **15 casos de teste** |
-
----
-
-## 🤖 Parte B — Automação (Postman)
-
-🔗 **Link do vídeo:** `<COLE O LINK DO VÍDEO AQUI>`
 
 ---
 
