@@ -18,6 +18,8 @@ Os testes manuais foram cadastrados no Azure Boards e cobrem as principais funci
 
 🔗 **Link Azure Boards:** `https://dev.azure.com/MR560547/EmotiWave/_workitems/recentlyupdated/`
 
+> Os Test Cases estão cadastrados dentro do **Boards**. Clique em qualquer TC → aba **Summary** → campo **Description** para visualizar as tabelas de dados de entrada, saída esperada e passos do teste.
+
 ### Funcionalidades cobertas
 
 | Módulo | Casos de Teste |
