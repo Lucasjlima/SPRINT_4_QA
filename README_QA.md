@@ -8,7 +8,7 @@
 
 ## Plano de Testes Manuais — Nível de Sistema
 
-Repositório de entrega da atividade de **Compliance & Quality Assurance**.
+Repositório de entrega da Sprint 4 de **Compliance & Quality Assurance**.
 
 ---
 
